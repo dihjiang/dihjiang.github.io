@@ -1,5 +1,5 @@
 ****************************************************************************
-This template is downloaded from [here]html5up.net. I did some personalized 
+This template is downloaded from https://html5up.net. I did some personalized 
 revisions. The following is written by the original author.
 ****************************************************************************
 Dimension by HTML5 UP
