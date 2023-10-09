@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Waterloo, 2024 (expected)
+  * Advisor: [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/index.html) & Sun Sun
 * M.Eng. in Electronics and Communication Engineering, Fudan University & University of Turku, 2020
+  * Advisor: [Yu Ma](http://ee.fudan.edu.cn/Data/View/838) & Mingzhe Jiang
 * B.Eng. in Electronics Engineering, Fudan University, 2017
 
 
