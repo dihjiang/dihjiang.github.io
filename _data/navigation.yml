@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Education & Experience"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
-
-  - title: "Education"
-    url: /cv/
 
   - title: "Misc"
     url: /teaching/  
