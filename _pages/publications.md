@@ -7,6 +7,11 @@ author_profile: true
 
 PhD's research
 ================
+(<b>2023</b>) <b>Dihong Jiang</b>, Sun Sun, Yaoliang Yu. <a href="https://">Functional Renyi Differential Privacy for Generative Modeling.</a> <i>Conference on Neural Information Processing Systems (NeurIPS)</i>
+
+(<b>2023</b>) <b>Dihong Jiang</b>, Sun Sun. <a href="https://">DP-LFlow: Differentially Private Latent Flow for Scalable Sensitive Image Generation.</a> <i>
+Transactions on Machine Learning Research (TMLR)</i>.
+
 (<b>2023</b>) <b>Dihong Jiang</b>, Sun Sun, Yaoliang Yu. <a href="https://openreview.net/forum?id=6y2KBh-0Fd9">Functional Renyi Differential Privacy for Generative Modeling.</a> <i>International Conference on Machine Learning (ICML), workshop on Challenges in Deployable Generative AI</i>
 
 (<b>2023</b>) <b>Dihong Jiang</b>, Sun Sun. <a href="https://openreview.net/pdf?id=dtRd4sddjv">DP-LFlow: Differentially Private Latent Flow for Scalable Sensitive Image Generation.</a> <i>International Conference on Machine Learning (ICML), workshop on Challenges in Deployable Generative AI</i>.
