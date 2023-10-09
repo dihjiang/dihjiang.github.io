@@ -14,5 +14,7 @@ My doctoral research is mainly in studying trustworthy deep generative models, w
 
 I am primarily interested in applied scientist (or similar) positions, turning the latest AI advances into business. I am open to positions relating to machine learning/pattern recognition, generative AI, and AI for health.
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=s0m_l83AFQuhcu-OuaTdUhtjx9YDH2v_T8EMzh2WtrA&cmn=403acc&co=6dd5ca'></script>
+
 
 
