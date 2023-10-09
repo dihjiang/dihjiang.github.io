@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://dihjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dihjiang/dihjiang.github.io"
-teaser                   : "site-logo.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dihong Jiang"
-  avatar           : "profile.png"
+  avatar           : "dihong.jpg"
   bio              : "Ph.D. candidate in Computer Science"
   location         : "Waterloo, ON, Canada"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/dihong-jiang-605245224/"
+  LinkedIn         : "dihong-jiang-605245224"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
