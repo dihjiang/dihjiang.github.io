@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Waterloo, 2024 (expected)
+* Ph.D. in Computer Science, University of Waterloo, 2024 (expected)
 * M.Eng. in Electronics and Communication Engineering, Fudan University & University of Turku, 2020
 * B.Eng. in Electronics Engineering, Fudan University, 2017
 
