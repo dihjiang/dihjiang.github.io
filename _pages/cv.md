@@ -21,4 +21,11 @@ Work experience
 ======
 * Nov 2021 - Aug 2022: Associate Research Intern
   * Huawei Montral Noah Ark's Lab
+  * Research Topic: private generative models
+
+
+Service
+======
+Review for top AI conferences:
+  * ICML2022, NeurIPS2022, ICML2023, NeurIPS2023, ICLR2024  
 
