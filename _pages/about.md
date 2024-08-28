@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. in Computer Science at University of Waterloo, and I will be in the job market in the years 2023 and 2024. 
+I am a final-year Ph.D. in Computer Science at University of Waterloo, and I will be in the job market in 2024. 
 
 My doctoral research is mainly in studying trustworthy deep generative models, with applications in out-of-distribution detection and differential privacy. Before Ph.D., I have studied biomedical pattern recognition during my Master's research, with applications of EEG (electroencephalogram) in sleep. See my full publication list [here](https://scholar.google.com/citations?user=Cen4GYkAAAAJ).
 
