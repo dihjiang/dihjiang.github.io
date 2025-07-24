@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. in Computer Science at University of Waterloo, and I will be in the job market in 2024. 
+I received my Ph.D. in Computer Science from University of Waterloo, advised by Yaoliang Yu. Before that, I obtained both my Bachelor's and Master's degrees from Fudan University.
 
 My doctoral research is mainly in studying trustworthy deep generative models, with applications in out-of-distribution detection and differential privacy. Before Ph.D., I have studied biomedical pattern recognition during my Master's research, with applications of EEG (electroencephalogram) in sleep. See my full publication list [here](https://scholar.google.com/citations?user=Cen4GYkAAAAJ).
-
-I am primarily interested in applied scientist (or similar) positions, turning the latest AI advances into business. I am open to positions relating to machine learning/pattern recognition, generative AI, and AI for health.
 
 
 
